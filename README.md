@@ -3,7 +3,7 @@ A detailed, statistical analysis to show how Southgate can incorporate both play
 
 
 **How to Replicate the Code:**
-In order to replicate the code, the jupyter notebook must be run in the same directory as the three helper files, named 'radar_chart.py' and 'utils.py'. These are all included both within the submission file and also my GitHub page.
+In order to replicate the code, the jupyter notebook must be run in the same directory as the two helper files, named 'radar_chart.py' and 'utils.py'. These are all included both within the submission file and also my GitHub page.
 I have ensured that the code runs without any issues, so please restart the kernel and run all cells.
 I have included an output file in the submission folder as a fail-safe.
 
