@@ -15,7 +15,7 @@ The notebook first imports the necessary python libraries, to allow the use of d
 The first section are all the functions for the project to allow the notebook to be concise and run efficiently. 
 The functions in the notebook have strings detailing what they do and why they are important.
 
-The second section is webscraping the data. I sourced my data from FBREF.
+The second section is webscraping the data. I sourced my data from FBREF, whilst utilising definitions of metrics using Opta.
 
 The third section is my where I utilise my functions to produce manipulated dataframes and utilimately my radar plots. 
 The metrics are separated by headings that label which radar plot is which, and the structure/coding methodology is identical for each.
