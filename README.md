@@ -1,5 +1,6 @@
 # Jude-Bellingham-and-Phil-Foden-Player-Analysis
-A detailed statistical football player analysis of Jude Bellingham and Phil Foden, to help us understand who should play in the '10' for England at the Euros.
+A detailed, statistical analysis to show how Southgate can incorporate both players in a way that maximises the contributions and influence both players can offer to the team.
+
 
 **How to Replicate the Code:**
 In order to replicate the code, the jupyter notebook must be run in the same directory as the three helper files, named 'radar_chart.py' and 'utils.py'. These are all included both within the submission file and also my GitHub page.
