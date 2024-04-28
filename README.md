@@ -1,15 +1,15 @@
 # Jude-Bellingham-and-Phil-Foden-Player-Analysis
 A detailed statistical football player analysis of Jude Bellingham and Phil Foden, to help us understand who should play in the '10' for England at the Euros.
 
-How to Replicate the Code:
+**How to Replicate the Code:**
 In order to replicate the code, the jupyter notebook must be run in the same directory as the three helper files, named 'radar_chart.py' and 'utils.py'. These are all included both within the submission file and also my GitHub page.
 I have ensured that the code runs without any issues, so please restart the kernel and run all cells.
 I have included an output file in the submission folder as a fail-safe.
 
-What this Project Does:
+**What this Project Does:**
 This project compares the underlying statistical data behind the success of upcoming footballers Jude Bellingham and Phil Foden for the 2023/24 season, in preparation for who should play where for England at the Euros this summer.
 
-Notebook Structure:
+**Notebook Structure:**
 The notebook first imports the necessary python libraries, to allow the use of dataframes, calculations and plotting.
 
 The first section defines all the functions for the project to allow the notebook to be concise and run efficiently. 
