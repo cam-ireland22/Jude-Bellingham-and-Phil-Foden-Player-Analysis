@@ -2,7 +2,7 @@
 A detailed statistical football player analysis of Jude Bellingham and Phil Foden, to help us understand who should play in the '10' for England at the Euros.
 
 How to Replicate the Code:
-In order to replicate the code, the jupyter notebook must be run in the same directory as the three helper files, named 'radar_chart', 'utils' and '__init__'. These are all included both within the submission file and also my GitHub page.
+In order to replicate the code, the jupyter notebook must be run in the same directory as the three helper files, named 'radar_chart.py', 'utils.py' and '__init__.py'. These are all included both within the submission file and also my GitHub page.
 I have ensured that the code runs without any issues, so please restart the kernel and run all cells.
 I have included an output file in the submission folder as a fail-safe.
 
